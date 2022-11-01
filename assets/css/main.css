@@ -107,7 +107,9 @@ input, select, textarea {
 	}
 
 		a:hover {
-			text-decoration: none;
+			color: hotpink;
+			/* text-decoration: none; */
+
 		}
 
 	section > :last-child,
@@ -1629,7 +1631,7 @@ input, select, textarea {
 		}
 
 		#content a {
-			color: #ED391B;
+			color: #32a864;
 		}
 
 		#content header {
